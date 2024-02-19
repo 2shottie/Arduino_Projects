@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:mbed_opta:opta",
+  "hardwareFolders": "C:\\Users\\cody\\AppData\\Local\\T\\A\\packages",
+  "otherLibrariesFolders": "C:\\Users\\cody\\AppData\\Local\\T\\U\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "C:\\Users\\cody\\Documents\\Arduino PLC IDE\\Machine_IO\\LLSketch"
+}
